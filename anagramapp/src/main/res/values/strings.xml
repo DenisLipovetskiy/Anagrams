@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_title">Anagram Builder</string>
+    <string name="input_hint">Enter text for anagram</string>
+    <string name="filter_hint">Enter symbols to ignore</string>
+    <string name="result_label">Anagram:</string>
+    <string name="result_placeholder">Transformed text:</string>
+    <string name="app_name">Anagram</string>
+</resources>

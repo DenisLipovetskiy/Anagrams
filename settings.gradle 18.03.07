@@ -1,0 +1,8 @@
+rootProject.name = "anagram-test"
+include ':anagramapp'
+
+ dependencyResolutionManagement {
+     repositories{
+         google()
+     }
+ }
